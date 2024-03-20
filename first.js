@@ -1,1 +1,1 @@
-console.log("apna college")
+console.log("apna college");
