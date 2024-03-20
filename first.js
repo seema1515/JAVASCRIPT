@@ -12,7 +12,7 @@ do {
   console.log("The value of x is: " + x);
   x++;
 } while (x < 5);
-console.log("apna college");
+console.log("apna college is nice youtube chennel");
 
 
 
